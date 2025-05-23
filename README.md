@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richards Robin R</h1> <h3 align="center">I am a passionate software developer who loves to code and explore new technologies. After mastering DevOps, I am now focused on building high-performance applications using modern frameworks and gRPC for efficient communication.</h3>
+<h1 align="center">Hi 👋, I'm Richards Robin R</h1> <h3 align="center">Results-driven Software Developer with hands-on experience in building scalable backend systems using Golang and gRPC, supported by a solid foundation in cloud infrastructure, DevOps practices, and Django-based web applications. Currently leading real-time system development at Speedly, with prior experience in CI/CD, Docker, Kubernetes, and AWS during a DevOps internship. Adept at microservices architecture, concurrency patterns, and delivering production-ready solutions through freelance and team-based projects.</h3>
 🔭 I’m always open to exploring new technologies and frameworks.
 
 🌱 I’m currently building high-performance backend services using gRPC.
